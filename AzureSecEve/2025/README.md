@@ -1,4 +1,7 @@
-![Azure Sec Eve 2025 by iKNEX](img/logo_trans.png "Azure Sec Eve 2025 by iKNEX")
+<center>
+![Azure Sec Eve 2025 by iKNEX](img/logo_trans_cropped.png "Azure Sec Eve 2025 by iKNEX")
+</center>
+
 + Date : ***(Sat)*** **May 10, 2025**
 + Time : **6:30** PM - **8:30** PM
 + Venue : **Virtual Event**
