@@ -6,7 +6,6 @@
 + Venue : **Virtual Event**
 + Registration : ***TBA***
 
-
 ### Confirmed Speaker(s)
 + **Sarah Saran Hansakul**
 	+ ThaiCySec - Steering Thai Security to Global Excellence
