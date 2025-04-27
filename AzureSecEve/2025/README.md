@@ -13,4 +13,4 @@
 	+ ***Topic : From Zero to Heroine as true Azure Security Professional for “FREE”***
 + **Chonlatit Rujitphut**
 	+ VP & Co-founder of iKNEX (Thailand)
-	+ ***Topic : TBD***
+	+ ***Topic : Meet Copilot, Your AI Assistant for Work & Security Best Practices***
