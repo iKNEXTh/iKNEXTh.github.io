@@ -13,3 +13,6 @@
 + **Chonlatit Rujitphut**
 	+ VP & Co-founder of iKNEX (Thailand)
 	+ ***Topic : Meet Copilot, Your AI Assistant for Work & Security Best Practices***
++ **Wisit Thongphoo**
+	+ Microsoft MVP - Security
+	+ ***Topic : Planning and Securing Active Directory-Based Identity Solutions***
