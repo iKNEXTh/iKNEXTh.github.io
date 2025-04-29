@@ -4,7 +4,7 @@
 + Date : ***(Sat)*** **May 10, 2025**
 + Time : **4:00** PM - **8:00** PM
 + Venue : **Virtual Event**
-+ Registration : ***TBA***
++ Call for Speaker : ***[Sessionize](https://sessionize.com/azure-sec-eve-2025)***
 
 ### Confirmed Speaker(s)
 + **Sarah Saran Hansakul**
@@ -19,3 +19,5 @@
 	+ Microsoft MVP - Security
 	+ ***Topic : Planning and Securing Active Directory-Based Identity Solutions***
 	+ **18:30 - 19:30**
+
+* **more info** : Maykin Warasart's **[LINE](https://line.me/R/ti/p/@maykin)** or **[WhatsApp](https://api.whatsapp.com/send?phone=66832725900)**
