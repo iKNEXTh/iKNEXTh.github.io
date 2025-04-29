@@ -1,5 +1,5 @@
 
-![Azure Sec Eve 2025 by iKNEX](img/logo_trans_cropped_wide.png "Azure Sec Eve 2025 by iKNEX")
+[![Azure Sec Eve 2025 by iKNEX](img/logo_trans_cropped_wide.png "Azure Sec Eve 2025 by iKNEX")](https://globalazure.net/events/b8924497-f083-465c-94d6-36a40d629064)
 
 + Date : ***(Sat)*** **May 10, 2025**
 + Time : **4:00** PM - **8:00** PM
