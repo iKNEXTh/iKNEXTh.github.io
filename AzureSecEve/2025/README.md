@@ -9,9 +9,7 @@
 	+ Meeting ID: ***494 949 9449***
 	+ Passcode: ***AzSecEve25***
 
-<div align=center>
-<a href="https://us05web.zoom.us/j/4949499449?pwd=oKrfBPnJygSpaK3aUBS9NFjbaZLC4K.1&omn=82872624389" target="_blank"><img src="img/zoom-qr.png" width="50%"></a>
-</div><br>
+[![Azure Sec Eve 2025 by iKNEX (Thailand)](img/banner.png "Azure Sec Eve 2025 by iKNEX (Thailand)")](https://globalazure.net/events/b8924497-f083-465c-94d6-36a40d629064)
 
 ### Confirmed Speaker(s)
 + **Sarah Saran Hansakul**
