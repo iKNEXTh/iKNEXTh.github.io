@@ -16,14 +16,14 @@ Orginal picture : [Thai Cy Sec](https://www.facebook.com/photo?fbid=704062745492
 + **Sarah Saran Hansakul**
 	+ [ThaiCySec - Steering Thai Security to Global Excellence](https://www.facebook.com/thaicysec)
 	+ ***Topic : From Zero to Heroine as true Azure Security Professional for “FREE”***
-	+ **16:30 - 17:30**, **[Video](#)**
+	+ **16:30 - 17:30**, **[Video](https://youtu.be/dBcEa2j2DQE)**
 + **Chonlatit Rujitphut**
 	+ VP & Co-founder of [iKNEX (Thailand)](https://www.facebook.com/iKNEX/)
 	+ ***Topic : Meet Copilot, Your AI Assistant for Work & Security Best Practices***
-	+ **17:30 - 18:30**, **[Video](#)**
+	+ **17:30 - 18:30**, **[Video](https://youtu.be/iih24N03RVc)**
 + **Wisit Thongphoo**
 	+ [ITGeist](https://www.facebook.com/ITGeist5), [Microsoft MVP - Security](https://mvp.microsoft.com/en-US/MVP/profile/1e650ff3-3c9a-e411-93f2-9cb65495d3c4)
 	+ ***Topic : Planning and Securing Active Directory-Based Identity Solutions***
-	+ **18:30 - 19:30**, **[Video](#)**
+	+ **18:30 - 19:30**, **[Video](https://youtu.be/qUCCBI4QpoE)**
 
 * **more info** : Maykin Warasart's **[LINE](https://line.me/R/ti/p/@maykin)** or **[WhatsApp](https://api.whatsapp.com/send?phone=66832725900)**
