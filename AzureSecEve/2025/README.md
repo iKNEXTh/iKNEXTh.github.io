@@ -2,7 +2,7 @@
 [![Azure Sec Eve 2025 by iKNEX (Thailand)](img/logo_trans_cropped_wide.png "Azure Sec Eve 2025 by iKNEX (Thailand)")](https://globalazure.net/events/b8924497-f083-465c-94d6-36a40d629064)
 
 + Date : ***(Sat)*** **May 10, 2025**
-+ Time : **4:00** PM - **8:00** PM
++ Time : **4:30** PM - **7:30** PM
 + Venue : **Virtual Event**
 + Call for Speaker : ***[Sessionize](https://sessionize.com/azure-sec-eve-2025)***
 + Join the Event : **[Zoom Meeting](https://us05web.zoom.us/j/4949499449?pwd=oKrfBPnJygSpaK3aUBS9NFjbaZLC4K.1&omn=82872624389)**
