@@ -29,3 +29,27 @@ Orginal picture : [Thai Cy Sec](https://www.facebook.com/photo?fbid=704062745492
 + **Blog** : [naiwaen@DebuggingSoft](https://naiwaen.debuggingsoft.com/2025/05/global-azure-2025-thailand)
 
 ![Azure Sec Eve 2025 by iKNEX (Thailand)](img/0.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/1.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/2.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/3.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/4.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/5.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/6.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/7.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/8.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/9.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/10.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/11.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/12.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
