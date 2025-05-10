@@ -10,7 +10,7 @@
 	+ Passcode: ***AzSecEve25***
 
 [![Azure Sec Eve 2025 by iKNEX (Thailand)](img/banner.png "Azure Sec Eve 2025 by iKNEX (Thailand)")](https://globalazure.net/events/b8924497-f083-465c-94d6-36a40d629064)
-Orginal picture : [Thai Cy Sec งานความปลอดภัยทางไซเบอร์ Cybersecurity](https://www.facebook.com/photo?fbid=704062745492060)
+Orginal picture : [Thai Cy Sec](https://www.facebook.com/photo?fbid=704062745492060)
 
 ### Confirmed Speaker(s)
 + **Sarah Saran Hansakul**
