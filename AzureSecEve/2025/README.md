@@ -5,6 +5,7 @@
 + Time : **4:00** PM - **8:00** PM
 + Venue : **Virtual Event**
 + Call for Speaker : ***[Sessionize](https://sessionize.com/azure-sec-eve-2025)***
++ Join the event : **[Zoom Meeting](https://us05web.zoom.us/j/4949499449?pwd=oKrfBPnJygSpaK3aUBS9NFjbaZLC4K.1&omn=82872624389)**, Meeting ID: ***494 949 9449***, Passcode: ***AzSecEve25***
 
 ### Confirmed Speaker(s)
 + **Sarah Saran Hansakul**
