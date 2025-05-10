@@ -25,3 +25,5 @@ Orginal picture : [Thai Cy Sec](https://www.facebook.com/photo?fbid=704062745492
 	+ **18:30 - 19:30**, **[Video](https://youtu.be/qUCCBI4QpoE)**
 
 * **more info** : Maykin Warasart's **[LINE](https://line.me/R/ti/p/@maykin)** or **[WhatsApp](https://api.whatsapp.com/send?phone=66832725900)**
+
++ **Blog** : [naiwaen@DebuggingSoft](https://naiwaen.debuggingsoft.com/2025/05/global-azure-2025-thailand)
