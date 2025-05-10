@@ -8,7 +8,10 @@
 + Join the Event : **[Zoom Meeting](https://us05web.zoom.us/j/4949499449?pwd=oKrfBPnJygSpaK3aUBS9NFjbaZLC4K.1&omn=82872624389)**
 	+ Meeting ID: ***494 949 9449***
 	+ Passcode: ***AzSecEve25***
-	+ [![Join the Event](img/zoom-qr.png "Join the Event")](https://us05web.zoom.us/j/4949499449?pwd=oKrfBPnJygSpaK3aUBS9NFjbaZLC4K.1&omn=82872624389)
+
+<div align=center>
+<a href="https://us05web.zoom.us/j/4949499449?pwd=oKrfBPnJygSpaK3aUBS9NFjbaZLC4K.1&omn=82872624389" target="_blank"><img src="img/zoom-qr.png" width="50%"></a>
+</div>
 
 ### Confirmed Speaker(s)
 + **Sarah Saran Hansakul**
