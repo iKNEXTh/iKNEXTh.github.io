@@ -27,3 +27,5 @@ Orginal picture : [Thai Cy Sec](https://www.facebook.com/photo?fbid=704062745492
 * **more info** : Maykin Warasart's **[LINE](https://line.me/R/ti/p/@maykin)** or **[WhatsApp](https://api.whatsapp.com/send?phone=66832725900)**
 
 + **Blog** : [naiwaen@DebuggingSoft](https://naiwaen.debuggingsoft.com/2025/05/global-azure-2025-thailand)
+
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/_2025-05-10_162054.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
