@@ -1,5 +1,5 @@
 
-[![Azure Sec Eve 2025 by iKNEX](img/logo_trans_cropped_wide.png "Azure Sec Eve 2025 by iKNEX")](https://globalazure.net/events/b8924497-f083-465c-94d6-36a40d629064)
+[![Azure Sec Eve 2025 by iKNEX (Thailand)](img/logo_trans_cropped_wide.png "Azure Sec Eve 2025 by iKNEX (Thailand)")](https://globalazure.net/events/b8924497-f083-465c-94d6-36a40d629064)
 
 + Date : ***(Sat)*** **May 10, 2025**
 + Time : **4:00** PM - **8:00** PM
@@ -8,6 +8,7 @@
 + Join the Event : **[Zoom Meeting](https://us05web.zoom.us/j/4949499449?pwd=oKrfBPnJygSpaK3aUBS9NFjbaZLC4K.1&omn=82872624389)**
 	+ Meeting ID: ***494 949 9449***
 	+ Passcode: ***AzSecEve25***
+	+ [![Join the Event](img/zoom-qr.png "Join the Event")](https://us05web.zoom.us/j/4949499449?pwd=oKrfBPnJygSpaK3aUBS9NFjbaZLC4K.1&omn=82872624389)
 
 ### Confirmed Speaker(s)
 + **Sarah Saran Hansakul**
