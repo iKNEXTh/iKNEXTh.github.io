@@ -28,4 +28,4 @@ Orginal picture : [Thai Cy Sec](https://www.facebook.com/photo?fbid=704062745492
 
 + **Blog** : [naiwaen@DebuggingSoft](https://naiwaen.debuggingsoft.com/2025/05/global-azure-2025-thailand)
 
-![Azure Sec Eve 2025 by iKNEX (Thailand)](img/_2025-05-10_162054.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
+![Azure Sec Eve 2025 by iKNEX (Thailand)](img/0.png "Azure Sec Eve 2025 by iKNEX (Thailand)")
