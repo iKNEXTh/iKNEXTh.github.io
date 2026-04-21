@@ -26,7 +26,7 @@
 + Khun **Saran Hansakul**
 	+ *Microsoft MVP (Security)*
 + Dr. **Siwaporn Linthaluek**
-+ Khun **Suthada Mueangsan**
++ Khun **Suthada Muengsan**
 + Khun **Sayamon Sittiprom**
 	+ *Graduate Certificate Student in AI, Humber College*
 + Khun **Techit Sriwichai**
