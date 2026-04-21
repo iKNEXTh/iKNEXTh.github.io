@@ -21,12 +21,12 @@
 | 20:31 | 21:00 |                                                                                             |
 
 ### Confirmed Speaker(s)
-+ Khun Saran Hansakul
++ Khun **Saran Hansakul**
 	+ *Microsoft MVP (Security)*
-+ Dr. Siwaporn Linthaluek
-+ Khun Suthada Mueangsan
-+ Khun Sayamon Sittiprom
-+ Khun Techit Sriwichai
++ Dr. **Siwaporn Linthaluek**
++ Khun **Suthada Mueangsan**
++ Khun **Sayamon Sittiprom**
++ Khun **Techit Sriwichai**
 
 <br>
 <br>
