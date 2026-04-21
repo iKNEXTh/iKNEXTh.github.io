@@ -28,6 +28,7 @@
 + Dr. **Siwaporn Linthaluek**
 + Khun **Suthada Mueangsan**
 + Khun **Sayamon Sittiprom**
+	+ *Graduate Certificate Student in AI, Humber College*
 + Khun **Techit Sriwichai**
 
 <br>
