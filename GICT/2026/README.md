@@ -16,7 +16,7 @@
 | 11:01 | 12:00 | **TBA** <br> by ***Dr. Siwaporn L.***                                                       |
 | 12:01 | 19:00 |                                                                                             |
 | 19:01 | 19:30 | **The Blind Spots of AI-Generated Content**<br> by ***Khun Suthada M.***                    |
-| 19:31 | 20:00 | **TBA** <br> ***by Khun Sayamon S.***                                                       |
+| 19:31 | 20:00 | **TBA** <br> by ***Khun Sayamon S.***                                                       |
 | 20:01 | 20:30 | **AI Helps Hackers: How Do We Fight Back?** <br> by ***Khun Techit S.***                    |
 | 20:31 | 21:00 |                                                                                             |
 
