@@ -26,8 +26,9 @@
 + Khun **Saran Hansakul**
 	+ *Microsoft MVP (Security)*
 + Dr. **Siwaporn Linthaluek**
-	+ Digital Media Technology Program, Faculty of Science Technology, Thonburi University
+	+ *Digital Media Technology Program, Faculty of Science Technology, Thonburi University*
 + Khun **Suthada Muengsan**
+	+ *Lecturer in Digital Business Technology, Phang Nga Community College*
 + Khun **Sayamon Sittiprom**
 	+ *Graduate Certificate Student in AI, Humber College*
 + Khun **Techit Sriwichai**
