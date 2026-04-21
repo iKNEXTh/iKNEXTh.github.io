@@ -20,6 +20,8 @@
 | 20:01 | 20:30 | **AI Helps Hackers: How Do We Fight Back?** <br> by ***Khun Techit S.***                    |
 | 20:31 | 21:00 |                                                                                             |
 
+<br>
+
 ### Confirmed Speaker(s)
 + Khun **Saran Hansakul**
 	+ *Microsoft MVP (Security)*
