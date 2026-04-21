@@ -20,6 +20,13 @@
 | 20:01 | 20:30 | **AI Helps Hackers: How Do We Fight Back?** <br> by ***Khun Techit S.***                    |
 | 20:31 | 21:00 |                                                                                             |
 
+### Confirmed Speaker(s)
++ Khun Saran Hansakul
++ Dr. Siwaporn Linthaluek
++ Khun Suthada Mueangsan
++ Khun Sayamon Sittiprom
++ Khun Techit Sriwichai
+
 <br>
 <br>
 
