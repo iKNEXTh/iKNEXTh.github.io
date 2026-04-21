@@ -8,7 +8,7 @@
 + Time : **9:00** AM - **9:00** PM
 + Venue : **Virtual Event**
 
-| From  |  To   |  Activities/Topics                                                                          |
+| From  |  To   | Topics                                                                                      |
 |:-----:|:-----:|:--------------------------------------------------------------------------------------------|
 | 09:00 | 09:30 | **Opening**                                                                                 |
 | 09:31 | 10:00 | **Shift Left better than Left Shit in this AI Era**<br>by Khun Saran H.                     |
@@ -20,5 +20,7 @@
 | 20:01 | 20:30 | **AI Helps Hackers: How Do We Fight Back?** <br> by Khun Techit S.                          |
 | 20:31 | 21:00 |                                                                                             |
 
+<br>
+<br>
 
 [2025 in Vientiane](https://instila.github.io/Girls-in-ICT-Day/2025/)
