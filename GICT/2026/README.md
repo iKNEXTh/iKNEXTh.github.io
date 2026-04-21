@@ -22,6 +22,7 @@
 
 ### Confirmed Speaker(s)
 + Khun Saran Hansakul
+	+ Microsoft MVP (Security)
 + Dr. Siwaporn Linthaluek
 + Khun Suthada Mueangsan
 + Khun Sayamon Sittiprom
