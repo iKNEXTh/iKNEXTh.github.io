@@ -6,7 +6,7 @@
 
 + Date : ***(Thu)*** **April 23, 2026**
 + Time : **9:00** AM - **9:00** PM
-+ Venue : **Virtual Event**
++ Venue : **Virtual Event** (***The link to join the session can be found on this page.***)
 
 | From  |  To   | Topics                                                                                      |
 |:-----:|:-----:|:--------------------------------------------------------------------------------------------|
