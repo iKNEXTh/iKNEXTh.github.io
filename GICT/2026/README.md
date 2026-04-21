@@ -13,7 +13,7 @@
 | 09:00 | 09:30 | Opening                                                                                     |
 | 09:31 | 10:00 | Shift Left better than Left Shit in this AI Era <br>by Saran H.                             |
 | 09:31 | 11:00 |                                                                                             |
-| 11:01 | 12:00 | TBA                                                                                         |
+| 11:01 | 12:00 | TBA <br> by Dr. Siwaporn L.                                                                 |
 
 
 [2025 in Vientiane](https://instila.github.io/Girls-in-ICT-Day/2025/)
