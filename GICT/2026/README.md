@@ -32,9 +32,7 @@
 	+ *Graduate Certificate Student in AI, Humber College*
 
 
-<br>
-
-* *Those interested in sharing their knowledge may contact Maykin W., PhD at **maykin@iknex.or.th**.*
+#### *Those interested in sharing their knowledge may contact Maykin W., PhD at **maykin@iknex.or.th**.*
 
 <br>
 <br>
