@@ -32,6 +32,7 @@
 + Khun **Sayamon Sittiprom**
 	+ *Graduate Certificate Student in AI, Humber College*
 + Khun **Techit Sriwichai**
+	+ *Pre-sales Engineer - Microsoft Security Solution*
 
 <br>
 <br>
