@@ -17,8 +17,7 @@
 | 12:01 | 19:00 |                                                                                             |
 | 19:01 | 19:30 | **The Blind Spots of AI-Generated Content**<br> by ***Khun Suthada M.***                    |
 | 19:31 | 20:00 | **TBA** <br> by ***Khun Sayamon S.***                                                       |
-| 20:01 | 20:30 | **AI Helps Hackers: How Do We Fight Back?** <br> by ***Khun Techit S.***                    |
-| 20:31 | 21:00 |                                                                                             |
+| 20:01 | 21:00 |                                                                                             |
 
 <br>
 
@@ -31,8 +30,6 @@
 	+ *Lecturer in Digital Business Technology, Phang Nga Community College*
 + Khun **Sayamon Sittiprom**
 	+ *Graduate Certificate Student in AI, Humber College*
-+ Khun **Techit Sriwichai**
-	+ *Pre-sales Engineer - Microsoft Security Solution*
 
 <br>
 <br>
