@@ -1,4 +1,4 @@
-# Girls in ICT Day 2026
+# [Girls in ICT Day 2026](https://www.itu.int/net4/ITU-D/CDS/gq/GICT2026/display.asp?ProjectID=1374&Quest=69767)
 ## (Thailand) - Virtual Event
 ### "AI for Development: Girls shaping the digital future"
 
