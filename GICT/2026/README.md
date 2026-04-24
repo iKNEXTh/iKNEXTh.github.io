@@ -6,7 +6,7 @@
 
 + Date : ***(Sat)*** **April 25, 2026**
 + Time : **9:00** AM - **9:00** PM
-+ Venue : **Virtual Event** --> [**Click to Join**](https://us05web.zoom.us/j/4949499449?pwd=q8vPq57uvaLaCt9ncwZeu5ia0QNaia.1&omn=84288296067)
++ Venue : **Virtual Event** --> [**Click Here to Join Zoom Meeting**](https://us05web.zoom.us/j/4949499449?pwd=q8vPq57uvaLaCt9ncwZeu5ia0QNaia.1&omn=84288296067)
 + Meeting ID : 494 949 9449
 + Passcode : GICT2026
  
