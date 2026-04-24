@@ -10,9 +10,9 @@
 
 | From  |  To   | Topics                                                                                      |
 |:-----:|:-----:|:--------------------------------------------------------------------------------------------|
-| 09:00 | 09:30 | **Opening**                                                                                 |
-| 09:31 | 10:00 | **Shift Left better than Left Shit in this AI Era**<br>by ***Khun Saran H.***               |
-| 09:31 | 11:00 |                                                                                             |
+| 09:30 | 10:00 | **Opening**                                                                                 |
+| 10:01 | 10:30 | **Shift Left better than Left Shit in this AI Era**<br>by ***Khun Saran H.***               |
+| 10:31 | 11:00 |                                                                                             |
 | 11:01 | 12:00 | **Advancing Education Using AI** <br> by ***Dr. Siwaporn L.***                              |
 | 12:01 | 19:00 |                                                                                             |
 | 19:01 | 19:30 | **The Blind Spots of AI-Generated Content**<br> by ***Khun Suthada M.***                    |
