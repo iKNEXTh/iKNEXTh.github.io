@@ -19,8 +19,6 @@
 | 11:01 | 12:00 | **Advancing Education Using AI** <br> by ***Dr. Siwaporn L.***                              |
 | 12:01 | 19:00 |                                                                                             |
 | 19:01 | 19:30 | **The Blind Spots of AI-Generated Content**<br> by ***Khun Suthada M.***                    |
-| 19:31 | 20:00 | **TBD** <br> by ***Khun Sayamon S.***                                                       |
-| 20:01 | 21:00 |                                                                                             |
 
 <br>
 
