@@ -29,8 +29,6 @@
 	+ *Digital Media Technology Program, Faculty of Science Technology, Thonburi University*
 + Khun **Suthada Muengsan**
 	+ *Lecturer in Digital Business Technology, Phang Nga Community College*
-+ Khun **Sayamon Sittiprom**
-	+ *Graduate Certificate Student in AI, Humber College*
 
 
 #### *Those interested in sharing their knowledge may contact Maykin W., PhD at **maykin@iknex.or.th**.*
