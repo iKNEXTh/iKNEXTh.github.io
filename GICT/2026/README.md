@@ -21,9 +21,9 @@
 <br>
 
 ### Confirmed Speaker(s)
-+ Khun **Saran Hansakul**
++ [Khun **Saran Hansakul**](https://youtu.be/Yp0T8Tv4YAE)
 	+ *Microsoft MVP (Security)*
-+ Dr. **Siwaporn Linthaluek**
++ [Dr. **Siwaporn Linthaluek**](https://youtu.be/V8SxkRUNf0Q)
 	+ *Digital Media Technology Program, Faculty of Science Technology, Thonburi University*
 + Khun **Suthada Muengsan**
 	+ *Lecturer in Digital Business Technology, Phang Nga Community College*
