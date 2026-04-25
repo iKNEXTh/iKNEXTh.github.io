@@ -26,11 +26,11 @@
 + [Khun **Suthada Muengsan**](https://youtu.be/loQAyScZ9JU)
 	+ *Lecturer in Digital Business Technology, Phang Nga Community College*
 
-![Shift Left better than Left Shit in this AI Era](img/Shift-Left.jpg "Shift Left better than Left Shit in this AI Era")
+[![Shift Left better than Left Shit in this AI Era](img/Shift-Left.jpg "Shift Left better than Left Shit in this AI Era")](https://youtu.be/Yp0T8Tv4YAE)
 
-![Advancing Education Using AI](img/Education.png "Advancing Education Using AI")
+[![Advancing Education Using AI](img/Education.png "Advancing Education Using AI")](https://youtu.be/V8SxkRUNf0Q)
 
-![The Blind Spots of AI-Generated Content](img/Blind-Spot.jpg "The Blind Spots of AI-Generated Content")
+[![The Blind Spots of AI-Generated Content](img/Blind-Spot.jpg "The Blind Spots of AI-Generated Content")](https://youtu.be/loQAyScZ9JU)
 
 #### *Those interested in sharing their knowledge may contact Maykin W., PhD at **maykin@iknex.or.th**.*
 
