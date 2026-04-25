@@ -31,8 +31,6 @@
 
 #### *Those interested in sharing their knowledge may contact Maykin W., PhD at **maykin@iknex.or.th**.*
 
-<br>
-
 ---
 
 [2025 in Vientiane](https://instila.github.io/Girls-in-ICT-Day/2025/)
