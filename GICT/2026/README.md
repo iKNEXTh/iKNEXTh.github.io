@@ -11,12 +11,12 @@
 + Passcode : **GICT2026**
  
 
-| From  |  To   | Topics                                                                                      |
-|:-----:|:-----:|:--------------------------------------------------------------------------------------------|
-| 09:30 | 10:00 | **Opening**                                                                                 |
-| 10:01 | 10:30 | **Shift Left better than Left Shit in this AI Era**<br>by ***Khun Saran H.***               |
-| 11:01 | 12:00 | **Advancing Education Using AI** <br> by ***Dr. Siwaporn L.***                              |
-| 19:01 | 19:30 | **The Blind Spots of AI-Generated Content**<br> by ***Khun Suthada M.***                    |
+| From  |  To   | Topics                                                                                                         |
+|:-----:|:-----:|:---------------------------------------------------------------------------------------------------------------|
+| 09:30 | 10:00 | **Opening**                                                                                                    |
+| 10:01 | 10:30 | **[Shift Left better than Left Shit in this AI Era](https://youtu.be/Yp0T8Tv4YAE)**<br>by ***Khun Saran H.***  |
+| 11:01 | 12:00 | **Advancing Education Using AI** <br> by ***Dr. Siwaporn L.***                                                 |
+| 19:01 | 19:30 | **The Blind Spots of AI-Generated Content**<br> by ***Khun Suthada M.***                                       |
 
 <br>
 
