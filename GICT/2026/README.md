@@ -16,7 +16,6 @@
 | 11:01 | 12:00 | **[Advancing Education Using AI](https://youtu.be/V8SxkRUNf0Q)** <br> by ***Dr. Siwaporn L.***                 |
 | 19:01 | 19:30 | **[The Blind Spots of AI-Generated Content](https://youtu.be/loQAyScZ9JU)**<br> by ***Khun Suthada M.***       |
 
-<br>
 
 ### Confirmed Speaker(s)
 + [Khun **Saran Hansakul**](https://youtu.be/Yp0T8Tv4YAE)
